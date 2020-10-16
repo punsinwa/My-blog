@@ -15,3 +15,31 @@ p{
 	color:saddlebrown;
 	text-align: right
 }
+
+
+a{
+	text-decoration: none;
+}
+
+
+#firstp{
+	color: rosybrown;
+	line-height: 10;
+}
+
+#secondp{
+	color:maroon;
+	line-height:5;
+}
+
+.darkcyan{
+	color: darkcyan
+}
+
+
+.indianred{
+	color: indianred
+}
+
+
+	
